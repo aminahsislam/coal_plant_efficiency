@@ -9,4 +9,6 @@ A python code results are displayed in figure1.  Figure E2.2 shows the data col-
 
 The CSV file for the experimental data was extracted from Figure 1 via the WebPlotDigitizer website https://apps.automeris.io/wpd/
 
+The results of the python code are shown in "Results.png"
+
 The informatiom for this project was taken from the book, "Optimization of chemical processes, second edition. By Thomas F. Edgar, David M. Himmelblau, and Leon S. Lasdon, McGraw Hill, New York." 
